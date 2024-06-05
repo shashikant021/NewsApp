@@ -1,0 +1,1306 @@
+{
+    "status": "ok",
+    "totalResults": 576,
+    "articles": [
+    {
+    "source": {
+    "id": null,
+    "name": "Android Central"
+    },
+    "author": "bradypsnyder@gmail.com (Brady Snyder)",
+    "title": "Ray-Ban Meta smart glasses just got a huge AI boost and video calling support",
+    "description": "In a massive update, Meta added video call and multimodal AI support to its Ray-Ban smart glasses, and is offering a new frame option too.",
+    "url": "https://www.androidcentral.com/wearables/ray-ban-meta-smart-glasses-multimodal-ai-video-calling-update",
+    "urlToImage": "https://cdn.mos.cms.futurecdn.net/gfsiwsT4LqFHiCZyWgtB2Y-1200-80.jpeg",
+    "publishedAt": "2024-04-24T05:45:11Z",
+    "content": "What you need to know\r\n<ul><li>In an expansive update, Meta rolled out multimodal AI support and video call capabilities to Ray-Ban Meta smart glasses users. Multimodal AI is in beta for all U.S. and… [+3106 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "MacRumors"
+    },
+    "author": "Tim Hardwick",
+    "title": "EU Right to Repair Rules Force Companies to Fix Out-of-Warranty Devices",
+    "description": "The European Commission has waved through new 'right to repair' legislation that aims to make it easier for consumers to get their broken devices fixed, even if products are out of warranty.\n\n\n\n\n\nThe EU already requires companies to offer a two-year minimum w…",
+    "url": "https://www.macrumors.com/2024/04/24/new-eu-right-to-repair-law-devices/",
+    "urlToImage": "https://images.macrumors.com/t/sMSL9x9rGpB0mKcQjyg_5E2d5PQ=/1600x/article-new/2016/01/European-Commisssion.jpg",
+    "publishedAt": "2024-04-24T10:04:57Z",
+    "content": "The European Commission has waved through new 'right to repair' legislation that aims to make it easier for consumers to get their broken devices fixed, even if products are out of warranty.\r\nThe EU … [+2991 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Hipertextual"
+    },
+    "author": "Rubén Chicharro",
+    "title": "iPadOS 18 solucionaría la inexplicable carencia del iPad",
+    "description": "Apple está a punto de solucionar una de las mayores —e inexplicables— carencias del iPad desde hace más de 14 años, cuando la compañía de Cupertino anunció el primer modelo. Según ha revelado el portal MacRumors, quien cita a una fuente familiarizada con el a…",
+    "url": "http://hipertextual.com/2024/04/ipados-18-solucionaria-la-inexplicable-carencia-del-ipad",
+    "urlToImage": "https://imgs.hipertextual.com/wp-content/uploads/2022/10/iPad-10-08-scaled.jpg",
+    "publishedAt": "2024-04-24T08:46:16Z",
+    "content": "Apple está a punto de solucionar una de las mayores e inexplicables carencias del iPad desde hace más de 14 años, cuando la compañía de Cupertino anunció el primer modelo. Según ha revelado el portal… [+2313 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Xataka.com"
+    },
+    "author": "Manu García (Visnuh)",
+    "title": "MediaMarkt despide su Aniversario con los mejores precios en su Traca Final",
+    "description": "Como todos los años, la campaña de aniversario web de MediaMarkt viene culminada con una Traca Final cargada de ofertas. Una vez más, tenemos precios estupendos para equiparnos nosotros o nuestro hogar con lo último en tecnología. Pero por si necesitas ver pa…",
+    "url": "https://www.xataka.com/seleccion/mediamarkt-despide-su-aniversario-mejores-precios-su-traca-final",
+    "urlToImage": "https://i.blogs.es/cd5ce9/traca_final/840_560.jpeg",
+    "publishedAt": "2024-04-24T08:31:48Z",
+    "content": "Como todos los años, la campaña de aniversario web de MediaMarkt viene culminada con una Traca Final cargada de ofertas. Una vez más, tenemos precios estupendos para equiparnos nosotros o nuestro hog… [+4219 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Apple Newsroom"
+    },
+    "author": "John Gruber",
+    "title": "Apple Renews ‘For All Mankind’ and Announces New Spinoff Series ‘Star City’",
+    "description": "“For All Mankind” has landed a renewal for season five, and Apple TV+ will expand the universe with spinoff series “Star City.\"",
+    "url": "https://www.apple.com/tv-pr/news/2024/04/apple-renews-globally-acclaimed-hit-space-drama-for-all-mankind-for-season-five-and-announces-new-spinoff-series-star-city/",
+    "urlToImage": "https://www.apple.com/tv-pr/articles/2024/04/apple-renews-globally-acclaimed-hit-space-drama-for-all-mankind-for-season-five-and-announces-new-spinoff-series-star-city/images/all-news-images/041724_For_All_Mankind_news_16_9_regular.jpg.latest_news_og.jpg?1713450113349",
+    "publishedAt": "2024-04-24T01:32:06Z",
+    "content": "Apple renews globally acclaimed, hit space drama For All Mankind for season five and announces new spinoff series Star City\r\nThrilling new spinoff series from Sony Pictures Television and Apple explo… [+5005 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Github.com"
+    },
+    "author": "apple",
+    "title": "Apple releases CoreNet, a library for training deep neural networks",
+    "description": "CoreNet: A library for training deep neural networks - apple/corenet",
+    "url": "https://github.com/apple/corenet",
+    "urlToImage": "https://opengraph.githubassets.com/d1eb7db6855ca9b651c193906b99ecd002b5f6e032cec4bf611bdade821442f3/apple/corenet",
+    "publishedAt": "2024-04-24T01:26:48Z",
+    "content": "CoreNet is a deep neural network toolkit that allows researchers and engineers to train standard and novel small and large-scale models for variety of tasks, including foundation models (e.g., CLIP a… [+2968 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Huggingface.co"
+    },
+    "author": null,
+    "title": "Apple/OpenELM: Efficient Open-Source Family Language Models",
+    "description": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
+    "url": "https://huggingface.co/apple/OpenELM",
+    "urlToImage": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/apple/OpenELM.png",
+    "publishedAt": "2024-04-24T04:44:54Z",
+    "content": "Sachin Mehta, Mohammad Hossein Sekhavat, Qingqing Cao, Maxwell Horton, Yanzi Jin, Chenfan Sun, Iman Mirzadeh, Mahyar Najibi, Dmitry Belenko, Peter Zatloukal, Mohammad Rastegari\r\nWe introduce OpenELM,… [+7059 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Nutjs.dev"
+    },
+    "author": null,
+    "title": "I'm giving up on open source",
+    "description": "Sustainable open source will stay a dream",
+    "url": "https://nutjs.dev/blog/i-give-up",
+    "urlToImage": "https://github.com/nut-tree/nut.js/raw/master/.gfx/nut.png",
+    "publishedAt": "2024-04-24T02:34:31Z",
+    "content": "A little over a year ago I wrote a blog postabout open source and why I'm charging money for some of my plugins.Sadly, one year later I've reached a point where I'm just not willing to continue the w… [+4634 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "heise online"
+    },
+    "author": "Robin Brand",
+    "title": "heise+ | Acht High-End-Smartphones inklusive einiger Comeback-Kids im Test",
+    "description": "Für Kosten von knapp unter oder deutlich über tausend Euro liefern unsere acht Testkandidaten viel Power, komplette Ausstattung und edles Design.",
+    "url": "https://www.heise.de/tests/Acht-High-End-Smartphones-inklusive-einiger-Comeback-Kids-im-Test-9672479.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+    "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/5/6/5/9/2/3/1b6e7215ce6dec7dd4b96721b392f2f84133b4bf8def8f8af845993511d9dcbd-2b3b5f15a1d05ed0.jpg",
+    "publishedAt": "2024-04-24T09:00:00Z",
+    "content": "Inhaltsverzeichnis\r\nDer pure Luxus: Nur die besten Smartphones haben es auf diesen Smartphone-Prüfstand geschafft. Die High-End-Handys setzen die Standards, sie rechnen mit den potentesten Prozessore… [+2372 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "heise online"
+    },
+    "author": "Eva-Maria Weiß",
+    "title": "Google verschiebt Privacy Sandbox erneut – auf 2025",
+    "description": "Google will Drittanbieter-Cookies nun erst 2025 abschaffen. Der Fahrplan für die Privacy Sandbox verschiebt sich damit erneut.",
+    "url": "https://www.heise.de/news/Google-verschiebt-Privacy-Sandbox-erneut-auf-2025-9696124.html",
+    "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/5/7/8/4/1/8/girl-cookies-shutterstock-6800e41ab21a4da3.jpg",
+    "publishedAt": "2024-04-24T09:15:00Z",
+    "content": "Wegen \"anhaltender Herausforderungen\" schafft Google Drittanbieter-Cookies in Chrome doch noch nicht ab. Damit verschiebt sich die Privacy Sandbox als Ablösung bis mindestens Anfang 2025. Bei Google … [+3095 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "heise online"
+    },
+    "author": "dpa",
+    "title": "BGH bestätigt Amazons überragende marktübergreifende Bedeutung",
+    "description": "Das Bundeskartellamt sieht eine große Macht bei Amazon und hat den Konzern unter verschärfte Wettbewerbsaufsicht gestellt. Der BGH stärkt den Rücken.",
+    "url": "https://www.heise.de/news/BGH-bestaetigt-Amazons-ueberragende-marktuebergreifende-Bedeutung-9696277.html",
+    "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/5/7/8/5/0/7/Amazon_Spend_Less-251cdddf5a4ade1a.png",
+    "publishedAt": "2024-04-24T09:01:00Z",
+    "content": "Inhaltsverzeichnis\r\nDer Bundesgerichtshof (BGH) hat sich im Rechtsstreit des Bundeskartellamts mit Amazon an die Seite der Wettbewerbshüter gestellt. Damit wird der Weg für die Bonner Behörde frei, d… [+4009 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Gizmodo.jp"
+    },
+    "author": "はらいさん",
+    "title": "Appleのファインウーブンケース、まさかの製造終了説",
+    "description": "Appleがレザー製品の代わりに導入したファインウーブン素材のケースが、耐久性を理由に製造終了となるかも。",
+    "url": "https://www.gizmodo.jp/2024/04/apple-discontinues-production-of-fine-woven-cases.html",
+    "urlToImage": "https://media.loom-app.com/gizmodo/dist/images/2024/04/23/image.png?w=1280&h=630&f=jpg",
+    "publishedAt": "2024-04-24T04:00:00Z",
+    "content": "1...FineWoven has gone.Since its durability were bad.All the production line was stopped and removed.Apple would move to another materialAgain, not the leather.\r\nSo see ya'll in leather hell.(Recycli… [+91 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Gizmodo.jp"
+    },
+    "author": "岩田リョウコ",
+    "title": "使いこなせばやっぱり便利。AirTagの上手な使い方教えます",
+    "description": "犯罪に使われる可能性も指摘される一方で、忘れ物を探したりするのにやはり便利なAIrTag。その上手な利用法。",
+    "url": "https://www.gizmodo.jp/2024/04/how-to-use-airtag.html",
+    "urlToImage": "https://media.loom-app.com/gizmodo/dist/images/2024/04/23/3ada3f9e8ff6c275e3ab75d78076edc0.jpg?w=1280&h=630&f=jpg",
+    "publishedAt": "2024-04-24T02:00:00Z",
+    "content": "AirTag\r\nAppleAirTag\r\nGoogleFind My DeviceGoogleAirTagiPhone\r\nAirTag\r\niPhoneBluetoothAirTagiPhoneAirTagiPhone\r\niPhone+AirTagAirTagiPhoneAirTagiPhoneAirTag\r\nAirTag1CR2032 3V\r\nAirTag\r\nAirTagiPhone\r\niPho… [+317 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Applesfera.com"
+    },
+    "author": "Pedro Aznar",
+    "title": "La llegada de los esperados nuevos iPad y las sorpresas de última hora",
+    "description": "Ayer a las 16:00 tuvimos la inusual sorpresa del anuncio de un nuevo evento especial de Apple. En realidad lo llevamos esperando desde abril, y es el que anuncia la llegada de los nuevos iPad y seguro que alguna sorpresa más. Lo que suponíamos que iban a ser …",
+    "url": "https://www.applesfera.com/eventos/llegada-esperados-nuevos-ipad-sorpresas-ultima-hora",
+    "urlToImage": "https://i.blogs.es/0aa428/apple-event-let-loose-mayo-nuevos-ipad/840_560.jpeg",
+    "publishedAt": "2024-04-24T06:01:45Z",
+    "content": "Ayer a las 16:00 tuvimos la inusual sorpresa del anuncio de un nuevo evento especial de Apple. En realidad lo llevamos esperando desde abril, y es el que anuncia la llegada de los nuevos iPad y segur… [+2048 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Applesfera.com"
+    },
+    "author": "Álvaro García M.",
+    "title": "Reparar un iPhone es por fin un derecho: todo lo que cambia con la nueva ley europea",
+    "description": "La política de reparaciones de Apple suele ser generosa y da soporte para modelos de iPhone que hace años que no se venden e incluso están fuera de garantía. Sin embargo, ahora ya no será por política propia, sino por obligación de la ley en relación al \"Dere…",
+    "url": "https://www.applesfera.com/iphone/reparar-iphone-fin-derecho-todo-que-cambia-nueva-ley-europea",
+    "urlToImage": "https://i.blogs.es/2ea63c/reparacion/840_560.jpeg",
+    "publishedAt": "2024-04-24T08:23:09Z",
+    "content": "La política de reparaciones de Apple suele ser generosa y da soporte para modelos de iPhone que hace años que no se venden e incluso están fuera de garantía. Sin embargo, ahora ya no será por polític… [+5425 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Applesfera.com"
+    },
+    "author": "Jesús Quesada",
+    "title": "Las mejores ofertas de iPhone y AirPods que todavía puedes comprar en los Días Naranjas de PcComponentes",
+    "description": "Los Días Naranjas de PcComponentes ya llevan disponibles varios días y algunas de las ofertas más potentes se han acabado (ciertos modelos de iPhone estaban muy rebajados), pero te traemos los teléfonos y auriculares Bluetooth de Apple que todavía puedes comp…",
+    "url": "https://www.applesfera.com/seleccion/mejores-ofertas-iphone-airpods-que-todavia-puedes-comprar-dias-naranjas-pccomponentes",
+    "urlToImage": "https://i.blogs.es/75d293/ofertas-dias-naranjas-pccomponentes-01/840_560.jpeg",
+    "publishedAt": "2024-04-24T06:31:45Z",
+    "content": "Los Días Naranjas de PcComponentes ya llevan disponibles varios días y algunas de las ofertas más potentes se han acabado (ciertos modelos de iPhone estaban muy rebajados), pero te traemos los teléfo… [+2685 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Applesfera.com"
+    },
+    "author": "Álvaro García M.",
+    "title": "Nunca pensé que vería esto en el iPad: la app de 'Calculadora' debutará en iPadOS 18 y esta es la razón por la que no llegó antes",
+    "description": "¿Existe alguna herramienta tan compleja, pero a la vez tan sencilla de convertir en aplicación como la calculadora? Las tenemos en formato electrónico desde los años 60 y llevan presentes en los móviles desde mucho antes de ser inteligentes. El iPhone, por su…",
+    "url": "https://www.applesfera.com/aplicaciones-ipados/nunca-pense-que-veria-esto-ipad-app-calculadora-debutara-ipados-18-esta-razon-que-no-llego-antes",
+    "urlToImage": "https://i.blogs.es/e21ca7/calculadora-ipad/840_560.jpeg",
+    "publishedAt": "2024-04-24T07:01:43Z",
+    "content": "¿Existe alguna herramienta tan compleja, pero a la vez tan sencilla de convertir en aplicación como la calculadora? Las tenemos en formato electrónico desde los años 60 y llevan presentes en los móvi… [+3112 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Presse-citron"
+    },
+    "author": "Jean-Yves Alric",
+    "title": "IPTV : pourquoi Apple et Google sont accusés de “grave désobéissance” par la Liga ?",
+    "description": "Des poursuites sont engagées contre ces géants de la Tech.",
+    "url": "https://www.presse-citron.net/iptv-pourquoi-apple-et-google-sont-accuses-de-grave-desobeissance-par-la-liga/",
+    "urlToImage": "https://www.presse-citron.net/app/uploads/2024/03/iptv-1.jpg",
+    "publishedAt": "2024-04-24T04:32:55Z",
+    "content": "Décidément, les dirigeants du football espagnol ne plaisantent pas avec les IPTV. En avril 2022, La Liga avait ainsi obtenu une ordonnance visant le service dIPTV Newplay dans le pays. Sans que lon s… [+2552 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Golem.de"
+    },
+    "author": "Daniel Ziegener",
+    "title": "Neue App von Apple: iPad bekommt nach 14 Jahren einen Taschenrechner",
+    "description": "Es geschehen noch Zeichen und Wunder. Im Fall von Apples iPad sind es Plus-, Minus- und Gleichheitszeichen. (iPad, Apple)",
+    "url": "https://www.golem.de/sonstiges/zustimmung/auswahl.html?from=https%3A%2F%2Fwww.golem.de%2Fnews%2Fneue-app-von-apple-ipad-bekommt-nach-14-jahren-einen-taschenrechner-2404-184484.html&referer=https%3A%2F%2Ft.co%2Ffe86a1acc6",
+    "urlToImage": null,
+    "publishedAt": "2024-04-24T10:05:02Z",
+    "content": "Besuchen Sie Golem.de wie gewohnt mit Werbung und Tracking,\r\n indem Sie der Nutzung aller Cookies zustimmen.\r\n Details zum Tracking finden Sie im Privacy Center.\r\nSkript wurde nicht geladen. Informat… [+607 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Presse-citron"
+    },
+    "author": "Presse-citron",
+    "title": "Keynote Apple confirmé : découvrez la date et quels produits y sont attendus",
+    "description": "Un Apple Event est prévu le mois prochain. Des tablettes pourraient y être mises à l'honneur. Détails.",
+    "url": "https://www.presse-citron.net/keynote-apple-confirme-decouvrez-la-date-et-quels-produits-y-sont-attendus/",
+    "urlToImage": "https://www.presse-citron.net/app/uploads/2024/04/ipad-air.webp",
+    "publishedAt": "2024-04-24T06:30:42Z",
+    "content": "Le prochain keynote d’Apple aura lieu le 7 mai, à seize heures (heure de Paris). Il est assez rare, pour la firme à la pomme, d’organiser un événement aussi proche de la Worldwide Developer Conferenc… [+4784 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Presse-citron"
+    },
+    "author": "Tristan Carballeda",
+    "title": "Cette marque automobile lance son premier smartphone, une réussite ?",
+    "description": "Le constructeur suédois Polestar, spécialisé dans les voitures électriques, vient de lancer son premier smartphone.",
+    "url": "https://www.presse-citron.net/cette-marque-automobile-lance-son-premier-smartphone-une-reussite/",
+    "urlToImage": "https://www.presse-citron.net/app/uploads/2024/04/polestar-phone-smartphone-voiture-electrique.jpg",
+    "publishedAt": "2024-04-24T09:57:39Z",
+    "content": "Polestar, principal concurrent de Tesla sur le marché des voitures électriques vient de lancer son premier smartphone. Sobrement baptisé le “Polestar Phone” l’appareil se veut comme une solution haut… [+2464 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Les Numériques"
+    },
+    "author": "Bastien Lion",
+    "title": "Épisode d'émission : Live Twitch des Nums : TikTok, Fallout et Deadpool",
+    "description": "Rejoignez-nous dès 11h30 sur Twitch pour échanger autour des dernières actualités avec Bastien. Aujourd'hui, on parle du ban de TikTok aux US, du succès de la série Fallout et du trailer de Deadpool 3 : c'est le mercredi ciné-séries avec Thibaud !",
+    "url": "https://www.lesnumeriques.com/emission/live-twitch-des-nums-tiktok-fallout-et-deadpool-em221051.html",
+    "urlToImage": "https://cdn.lesnumeriques.com/optim/program/22/221051/984aa6d3-live-twitch-des-nums-tiktok-fallout-et-deadpool__1200_678__0-0-3100-1628.jpg",
+    "publishedAt": "2024-04-24T09:00:00Z",
+    "content": "Retrouvez votre rendez-vous à ne pas rater sur Les Numériques et Twitch.Au programme de l'émission du mercredi 24 avril :\nLes US lancent un ultimatum à TikTok\nRobots lance-flamme et Optimus\nNetflix p… [+150 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Les Numériques"
+    },
+    "author": "Corentin Bechade",
+    "title": "Dossier : \"Aujourd’hui, la réparation seule ne suffit plus pour vivre\" : entretien avec Philippe Duchêne, PDG de Save",
+    "description": "En plein bouillonnement institutionnel, le secteur de la réparation se structure en France. L’enseigne Save, qui se définit comme \"le plus important réseau de réparation dans l’Hexagone\" en est la preuve. Entretien avec son président, Philippe Duchêne.",
+    "url": "https://www.lesnumeriques.com/telephone-portable/aujourd-hui-la-reparation-seule-ne-suffit-plus-pour-vivre-entretien-avec-philippe-duchene-pdg-de-save-a221021.html",
+    "urlToImage": "https://cdn.lesnumeriques.com/optim/article/22/221021/27155a50-itw-save__1200_678__overflow.jpg",
+    "publishedAt": "2024-04-24T10:00:00Z",
+    "content": "Indice de durabilité, mesures européennes, développement économique du secteur. La réparation a le vent en poupe en 2024. Et pourtant, les défis rencontrés par les industriels du secteur sont légion.… [+7300 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Caschys Blog"
+    },
+    "author": "Olli",
+    "title": "Apple Event: Tim Cook teasert neuen Apple Pencil",
+    "description": "Apple hat gestern mehr oder weniger überraschend ein neues Event für den 7. Mai angekündigt. Dem Logo in der Einladung zufolge ist es offensichtlich, dass es um neue iPads und einen neuen Apple Pencil gehen soll. Dieser wurde bereits in...Zum Beitrag: Apple E…",
+    "url": "https://stadt-bremerhaven.de/apple-event-tim-cook-teasert-neuen-apple-pencil/",
+    "urlToImage": "https://stadt-bremerhaven.de/wp-content/uploads/2024/04/apple.jpg",
+    "publishedAt": "2024-04-24T05:30:42Z",
+    "content": "Apple hat gestern mehr oder weniger überraschend ein neues Event für den 7. Mai angekündigt. Dem Logo in der Einladung zufolge ist es offensichtlich, dass es um neue iPads und einen neuen Apple Penci… [+967 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Caschys Blog"
+    },
+    "author": "Olli",
+    "title": "Apple Vision Pro: Apple fährt Produktion angeblich herunter",
+    "description": "Apple hat mit der Vision Pro sein erstes AR/VR-Headset auf den Markt gebracht und in Reviews zwar gute Technik, aber unter anderem einen schlechten Tragekomfort attestiert bekommen. Es gibt zwar immer wieder Entwickler, die den Start eigener Apps für das...Zu…",
+    "url": "https://stadt-bremerhaven.de/apple-vision-pro-apple-faehrt-produktion-angeblich-herunter/",
+    "urlToImage": "https://stadt-bremerhaven.de/wp-content/uploads/2024/01/Apple-Vision-Pro-Augen.jpg",
+    "publishedAt": "2024-04-24T08:00:15Z",
+    "content": "Schaut kein Netflix\r\nApple hat mit der Vision Pro sein erstes AR/VR-Headset auf den Markt gebracht und in Reviews zwar gute Technik, aber unter anderem einen schlechten Tragekomfort attestiert bekomm… [+1002 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Caschys Blog"
+    },
+    "author": "Felix Frank",
+    "title": "UniFi Dream Machine Pro Max für größere und performantere Setups vorgestellt",
+    "description": "Es klingt fast nach den Produktbezeichnungen von Apple, denn nach der Dream Machine Pro und der Dream Machine Special Edition (SE) hat Netzwerkspezialist Ubiquiti nun auch eine Dream Machine Pro Max aus dem Hut gezaubert. Diese ordnet sich, wie der...Zum Beit…",
+    "url": "https://stadt-bremerhaven.de/unifi-dream-machine-pro-max-fuer-groessere-und-performantere-setups-vorgestellt/",
+    "urlToImage": "https://stadt-bremerhaven.de/wp-content/uploads/2024/04/6yVlYN4glI-HD.jpg",
+    "publishedAt": "2024-04-24T10:00:13Z",
+    "content": "Es klingt fast nach den Produktbezeichnungen von Apple, denn nach der Dream Machine Pro und der Dream Machine Special Edition (SE) hat Netzwerkspezialist Ubiquiti nun auch eine Dream Machine Pro Max … [+1958 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Frandroid"
+    },
+    "author": "Mélanie Capelli",
+    "title": "Boulanger met en promo l’iPhone 15 Pro d’Apple à un prix totalement inédit",
+    "description": "Rares sont les promos sur les récents smartphones d'Apple, alors quand l’occasion se présente, il ne faut pas hésiter si vous souhaitez renouveler votre iPhone. Le 15 Pro est aujourd’hui en promotion à 959 euros au lieu de 1 229 euros chez Boulanger.",
+    "url": "https://www.frandroid.com/bons-plans/1943898_boulanger-met-en-promo-liphone-15-pro-dapple-a-un-prix-totalement-inedit",
+    "urlToImage": "https://images.frandroid.com/wp-content/uploads/2023/10/apple-iphone-15-pro-frandroid-dsc09945.jpg",
+    "publishedAt": "2024-04-24T07:58:57Z",
+    "content": "Rares sont les promos sur les récents smartphones d'Apple, alors quand loccasion se présente, il ne faut pas hésiter si vous souhaitez renouveler votre iPhone. Le 15 Pro est aujourdhui en promotion à… [+4063 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Frandroid"
+    },
+    "author": "Noémie Koskas",
+    "title": "AirPods Pro 2 (USB-C) : c’est bien la première fois qu’on voit un tel prix pour ces excellents écouteurs sans fil",
+    "description": "Les AirPods Pro 2 ont récemment troqué leur port Lightning contre un port USB-C. Le reste ne change pas, et c'est tant mieux : leurs performances audio sont toujours aussi excellentes, par exemple. La bonne nouvelle du jour, c'est qu'ils ont rarement été auss…",
+    "url": "https://www.frandroid.com/bons-plans/1938118_airpods-pro-2-usb-c-cest-bien-la-premiere-fois-quon-voit-un-tel-prix-pour-ces-excellents-ecouteurs-sans-fil",
+    "urlToImage": "https://images.frandroid.com/wp-content/uploads/2022/09/test-apple-airpods-pro-2-5-scaled.jpg",
+    "publishedAt": "2024-04-24T08:48:57Z",
+    "content": "Les AirPods Pro 2 ont récemment troqué leur port Lightning contre un port USB-C. Le reste ne change pas, et c'est tant mieux : leurs performances audio sont toujours aussi excellentes, par exemple. L… [+4284 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Slickdeals.net"
+    },
+    "author": "Discombobulated",
+    "title": "The Three Stooges Collection (1934-1959) (Digital SD TV Show) $25",
+    "description": "Apple iTunes has *The Three Stooges Collection* (1934-1959) (Digital SD TV Show) on sale for *$24.99*. \n \nThanks Deal Editor *Discombobulated* for finding this deal. \n \nNote, TV show/series are not...",
+    "url": "https://slickdeals.net/f/17447853-the-three-stooges-collection-1934-1959-digital-sd-tv-show-24-99-via-apple-itunes",
+    "urlToImage": "https://static.slickdealscdn.com/attachment/8/6/6/3/0/15357609.attach",
+    "publishedAt": "2024-04-24T03:06:39Z",
+    "content": "Apple iTunes has The Three Stooges Collection (1934-1959) (Digital SD TV Show) on sale for $24.99.Thanks Deal Editor Discombobulated for finding this deal.\r\nNote, TV show/series are not\r\n Movies Anyw… [+57 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Ifanr.com"
+    },
+    "author": "何 晓涵",
+    "title": "早报|苹果 5 月 7 日举行发布会，或带来新 iPad /问界新 M5 正式上市/警方介入理想 MEGA 遭水军攻击事件",
+    "description": "· Meta 开放 Meta Horizon OS 头戴操作系统\n· 长城汽车进行新一轮组织调整\n· vivo 自研蓝图影像科技官宣#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。\n爱范儿 |\n原文链接 ·\n查看评论 ·\n新浪微博",
+    "url": "https://www.ifanr.com/1582801",
+    "urlToImage": "https://s3.ifanr.com/images/ep/cover-images/pao_ku_de_xiao_ge_cover.jpg",
+    "publishedAt": "2024-04-24T00:13:59Z",
+    "content": "5 7 \r\n5 7 10 Apple Pencil iPad \r\n Mark Gurman 5 6 iPad Pro iPad Air \r\n Gurman iPad 11 13 OLED iPad Pro 12.9 iPad Air Apple Pencil\r\nMeta Meta Horizon OS \r\nMeta Meta Horizon OS Meta VR / AR \r\nMeta Hori… [+1113 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "01net.com"
+    },
+    "author": "Mickaël Bazoge",
+    "title": "01net : enfin de nouveaux iPad et une nouvelle app Sonos le 7 mai, et ne cédez pas aux rançongiciels",
+    "description": "Bonjour à tous, voici la matinale de 01net ! Qu’avez vous manqué hier ? Retrouvez toute l’actu à connaitre pour démarrer la journée du bon pied.",
+    "url": "https://www.01net.com/actualites/01net-enfin-de-nouveaux-ipad-et-une-nouvelle-app-sonos-le-7-mai-et-ne-cedez-pas-aux-rancongiciels.html",
+    "urlToImage": "https://www.01net.com/app/uploads/2024/04/01net-Morning-16.jpg",
+    "publishedAt": "2024-04-24T04:01:41Z",
+    "content": "Bonjour à tous, voici la matinale de 01net ! Quavez vous manqué hier ? Retrouvez toute lactu à connaitre pour démarrer la journée du bon pied.À retenir dans l’actu\r\nApple organisera un événement le 7… [+1332 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Paul Sawers",
+    "title": "French startup FlexAI exits stealth with $30M to ease access to AI compute",
+    "description": "A French startup has raised a hefty seed investment to \"rearchitect compute infrastructure\" for developers wanting to build and train AI applications more...",
+    "url": "https://techcrunch.com/2024/04/23/french-startup-flexai-exits-stealth-with-30m-to-ease-access-to-ai-compute/",
+    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/V7FcJP2rJb.YNXWOmWjLrw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzQ-/https://media.zenfs.com/en/techcrunch_350/128964a889f3f6262e9e1f768561ec69",
+    "publishedAt": "2024-04-24T05:37:28Z",
+    "content": "A French startup has raised a hefty seed investment to \"rearchitect compute infrastructure\" for developers wanting to build and train AI applications more efficiently.\r\nFlexAI, as the company is call… [+10420 chars]"
+    },
+    {
+    "source": {
+    "id": "al-jazeera-english",
+    "name": "Al Jazeera English"
+    },
+    "author": "Olesya Shmagun",
+    "title": "Parallel economy: How Russia is defying the West’s boycott",
+    "description": "Two years after the invasion of Ukraine prompted exodus of brands from Russia, many products are freely bought and sold.",
+    "url": "https://www.aljazeera.com/economy/longform/2024/4/24/parallel-economy-how-russia-is-defying-the-wests-boycott",
+    "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/04/GettyImages-1238975010-1713246494_e61f5f-1713839913.jpg?resize=1200%2C630&quality=80",
+    "publishedAt": "2024-04-24T00:17:26Z",
+    "content": "When Moscow resident Zoya, 62, was planning a trip to Italy to visit her daughter last August, she saw the perfect opportunity to buy the Apple Watch she had long dreamed of owning.\r\nOfficially, Appl… [+1770 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "GSMArena.com"
+    },
+    "author": "Vlad",
+    "title": "Apple reportedly cuts Vision Pro production as demand falls sharply",
+    "description": "According to the ever-reliable purveyor of Apple-related supply chain sourced information Ming-Chi Kuo, things are far from rosy for the Vision Pro headset at the moment. Kuo says Apple has cut its shipment estimates (and thus, production orders) for the full…",
+    "url": "https://www.gsmarena.com/apple_reportedly_cuts_vision_pro_production_as_demand_falls_sharply-news-62580.php",
+    "urlToImage": "https://fdn.gsmarena.com/imgroot/news/24/04/apple-cuts-vision-pro-production/-952x498w6/gsmarena_000.jpg",
+    "publishedAt": "2024-04-24T05:12:01Z",
+    "content": "According to the ever-reliable purveyor of Apple-related supply chain sourced information Ming-Chi Kuo, things are far from rosy for the Vision Pro headset at the moment. Kuo says Apple has cut its s… [+899 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "01net.com"
+    },
+    "author": "Mickaël Bazoge",
+    "title": "Ventes faibles, intérêt limité : l’Apple Vision Pro aurait déjà un coup de mou",
+    "description": "Vous vous rappelez du Vision Pro ? Lancé début février aux États-Unis, le casque d'Apple a fait les gros titres pendant une semaine ou deux avant de retomber dans un anonymat relatif. La faute au constructeur, qui n'a pas su relancer l'intérêt autour de sa pl…",
+    "url": "https://www.01net.com/actualites/ventes-faibles-interet-limite-lapple-vision-pro-aurait-deja-un-coup-de-mou.html",
+    "urlToImage": "https://www.01net.com/app/uploads/2024/02/Apple-Vision-Pro-test-9.jpg",
+    "publishedAt": "2024-04-24T04:28:48Z",
+    "content": "Vous vous rappelez du Vision Pro ? Lancé début février aux États-Unis, le casque d’Apple a fait les gros titres pendant une semaine ou deux avant de retomber dans un anonymat relatif. La faute au con… [+3053 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "01net.com"
+    },
+    "author": "Stéphanie Bascou",
+    "title": "Accès aux pièces détachées, garantie étendue… Voici en quoi consiste votre nouveau « droit renforcé à la réparation »",
+    "description": "Une directive européenne, adoptée mardi en assemblée plénière au Parlement européen, vient renforcer le « droit à la réparation » des consommateurs, qui pourront plus facilement faire réparer leurs smartphones et d'autres produits électroniques. Obligation de…",
+    "url": "https://www.01net.com/actualites/pourra-t-on-bientot-reparer-plus-facilement-son-smartphone-oui-avec-cette-directive.html",
+    "urlToImage": "https://www.01net.com/app/uploads/2024/04/Design-sans-titre149.jpg",
+    "publishedAt": "2024-04-24T05:02:18Z",
+    "content": "Une directive européenne, adoptée mardi en assemblée plénière au Parlement européen, vient renforcer le « droit à la réparation » des consommateurs, qui pourront plus facilement faire réparer leurs s… [+7699 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Smartworld.it"
+    },
+    "author": "Lorenzo Delli",
+    "title": "Con sorpresa di nessuno, Apple taglia la produzione di Vision Pro visto il suo scarso successo di vendite",
+    "description": "Apple rivede i piani di produzione del suo visore per la realtà virtuale al ribasso: il prossimo modello potrebbe costare meno.\r\nL'articolo Con sorpresa di nessuno, Apple taglia la produzione di Vision Pro visto il suo scarso successo di vendite sembra essere…",
+    "url": "https://www.smartworld.it/news/apple-taglia-produzione-vision-pro.html",
+    "urlToImage": "https://www.smartworld.it/images/2024/04/24/apple-vision-pro-scarsa-domanda_1200x675.jpg",
+    "publishedAt": "2024-04-24T06:51:00Z",
+    "content": "Apple starebbe tagliando la produzione del suo visore per la realtà virtuale e aumentata, il chiacchieratissimo Apple Vision Pro. La soffiata arriva dall'analista Ming-Chi Kuo, una fonte più che fida… [+1581 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Deadline"
+    },
+    "author": "Stewart Clarke",
+    "title": "Seriencamp Sets 2024 Line-Up And Heads Back To Cologne With Key Producers, Distributors, Broadcasters & Platforms On Board",
+    "description": "EXCLUSIVE: German-based TV event Seriencamp will return to Cologne in June and has a raft of key industry players signed up for its upcoming tenth edition. Seriencamp attracts delegates from across Europe and has become a fixture in the calendar of internatio…",
+    "url": "http://deadline.com/2024/04/seriencamp-2024-cologne-with-constellation-zdf-tv-industry-1235892592/",
+    "urlToImage": "https://deadline.com/wp-content/uploads/2024/04/Opening2.jpg?w=1024",
+    "publishedAt": "2024-04-24T08:57:09Z",
+    "content": "EXCLUSIVE: German-based TV event Seriencamp will return to Cologne in June and has a raft of key industry players signed up for its upcoming tenth edition.\r\nSeriencamp attracts delegates from across … [+2714 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Creative Bloq"
+    },
+    "author": "Daniel John",
+    "title": "Apple's iPad event invite design is unusually revealing",
+    "description": "It's the least cryptic Apple illustration we've seen.",
+    "url": "https://www.creativebloq.com/news/ipad-event",
+    "urlToImage": "https://cdn.mos.cms.futurecdn.net/yuXT6efh7DzYvNGqXQtzd-1200-80.jpg",
+    "publishedAt": "2024-04-24T07:06:28Z",
+    "content": "Apple Event invites are a funny business. Usually fairly abstract and minimal in design (with the only given being some inclusion of the Apple logo), the designs are usually open to all manner of int… [+2479 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Marketingdirecto.com"
+    },
+    "author": "Antía Sacedón",
+    "title": "La apuesta del marketing: Estrategias de alto riesgo para el éxito de las marcas",
+    "description": "Diferentes estrategias de alto riesgo pueden posicionar a una marca en las primeras posiciones del mercado.\nLa entrada La apuesta del marketing: Estrategias de alto riesgo para el éxito de las marcas  se publicó primero en Marketing Directo.",
+    "url": "https://www.marketingdirecto.com/digital-general/digital/estrategias-marketing-alto-riesgo-marcas",
+    "urlToImage": "https://www.marketingdirecto.com/wp-content/uploads/2024/04/Diseno-sin-titulo-2024-04-24T093143.954-1.jpg",
+    "publishedAt": "2024-04-24T07:34:17Z",
+    "content": "Diferentes estrategias de alto riesgo pueden posicionar a una marca en las primeras posiciones del mercado.En un mercado cada vez más saturado, las marcas buscan constantemente estrategias de marketi… [+3609 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "La Vanguardia"
+    },
+    "author": "Fran Besora",
+    "title": "El próximo 7 de mayo habrá evento de Apple: esto es todo lo que podríamos ver",
+    "description": "Apple celebrará un evento especial el próximo martes, 7 de mayo, donde se presentarán los nuevos iPad en los que ha estado trabajando la compañía. Un evento que tendrá como protagonista al nuevo iPad Pro con pantalla OLED, pero que dará mucho más de sí gracia…",
+    "url": "https://www.lavanguardia.com/andro4all/apple/el-proximo-7-de-mayo-habra-evento-de-apple-esto-es-todo-lo-que-podriamos-ver",
+    "urlToImage": "https://www.lavanguardia.com/andro4all/hero/2024/04/novedades-evento-de-apple-mayo.jpg?width=1200",
+    "publishedAt": "2024-04-24T08:08:02Z",
+    "content": "Todo lo que veríamos el 7 de mayo en el evento de Apple\r\nApple celebrará un evento especial el próximo martes, 7 de mayo, donde se presentarán los nuevos iPad en los que ha estado trabajando la compa… [+3098 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "La Vanguardia"
+    },
+    "author": "Fran Besora",
+    "title": "iPadOS 18 incorporaría la app Calculadora en el iPad por primera vez en 14 años",
+    "description": "iPadOS 18 podría incluir algo que hemos estado solicitando durante 14 años: una aplicación de Calculadora. Aunque existe una razón por la cual la tableta de Apple no cuenta con dicha aplicación, parece que después de todo este tiempo, la incluirán, tal y como…",
+    "url": "https://www.lavanguardia.com/andro4all/apple/ipados-18-app-calculadora-ipad",
+    "urlToImage": "https://www.lavanguardia.com/andro4all/hero/2024/04/app-calculadora-ipad.1713940568.5832.jpg?width=1200",
+    "publishedAt": "2024-04-24T06:39:03Z",
+    "content": "La app Calculadora llegaría a iPadOS 18\r\niPadOS 18 podría incluir algo que hemos estado solicitando durante 14 años: una aplicación de Calculadora. Aunque existe una razón por la cual la tableta de A… [+2085 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "La Vanguardia"
+    },
+    "author": "Sergio Agudo",
+    "title": "El nuevo iPad Pro podría retrasarse por culpa de Samsung",
+    "description": "No queda prácticamente nada para que Apple presente sus nuevos productos. La fecha elegida es el próximo martes 7 de mayo, donde se espera que se hable de los nuevos iPad Pro con pantalla OLED y con un tamaño de 11 pulgadas (a pesar de que también se dijo que…",
+    "url": "https://www.lavanguardia.com/andro4all/apple/el-nuevo-ipad-pro-podria-retrasarse-por-culpa-de-samsung",
+    "urlToImage": "https://www.lavanguardia.com/andro4all/hero/2024/01/ipad-pro-apple.jpg?width=1200",
+    "publishedAt": "2024-04-24T09:22:47Z",
+    "content": "Los próximos iPad Pro de 11 pulgadas pueden tener problemas de disponibilidad.\r\nNo queda prácticamente nada para que Apple presente sus nuevos productos. La fecha elegida es el próximo martes 7 de ma… [+1785 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Nextpit.de"
+    },
+    "author": "Carsten Drees",
+    "title": "Apple Vision Pro: Wenig Nachfrage – Produktion angeblich runtergefahren",
+    "description": "Die Apple Vision Pro ist das Maß der Dinge bei AR-/VR-Brillen. Allerdings ist die Nachfrage offenbar zu gering, weshalb die Produktion runtergefahren wird.",
+    "url": "https://www.nextpit.de/apple-vision-pro-wenig-nachfrage-produktion-angeblich-runtergefahren",
+    "urlToImage": "https://fscl01.fonpit.de/userfiles/7687254/image/nextpit_Apple_Vision_Pro_2023.jpg",
+    "publishedAt": "2024-04-24T10:06:38Z",
+    "content": "Wenn es um heiße Infos rund um Apple geht, ist Analyst Ming-Chi Kuo mit seinen Kontakten innerhalb der entsprechenden Zuliefererkreise immer am Puls der Zeit. Sollte er mit seinen jüngsten Informatio… [+1635 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Nextpit.de"
+    },
+    "author": "Stefan Möllenhoff",
+    "title": "Apple & Samsung auf den letzten Plätzen: Wer gewinnt den Kamera-Blindtest?",
+    "description": "Die Community hat gevotet: Nach knapp 22.000 Stimmen steht der Sieger des Kamera-Blindtests fest! Xiaomi, Apple, Samsung, Google oder Honor? Findet's raus!",
+    "url": "https://www.nextpit.de/kamera-blindtest-h1-2024-ergebnisse",
+    "urlToImage": "https://fscl01.fonpit.de/userfiles/7687254/image/Camera_Blind_Test_Honor_Pixel_Xiaomi_iPhone_Galaxy_2024.jpg",
+    "publishedAt": "2024-04-24T04:30:00Z",
+    "content": "Auch das Google Pixel 8 Pro, das mit deutlichem Abstand unseren Kamera-Blindtest im vergangenen Herbst gewinnen konnte, schafft es dieses Mal nur auf den dritten Platz. Damit bleiben zwei chinesische… [+6339 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Livedoor.biz"
+    },
+    "author": "news4vip2",
+    "title": "【画像】Apple、無茶を言い出すｗｗｗｗｗ",
+    "description": "1: 以下、ニュー速クオリティでお送りします  2024/04/23(火) 10:02:41.05 ID:gga2qeOl0  すまんなマッマ、iPhoneは無理やで        引用元: ・https://nova.5ch.net/test/read.cgi/livegalileo/1713834161/",
+    "url": "http://news4vip.livedoor.biz/archives/52525762.html",
+    "urlToImage": "https://livedoor.blogimg.jp/news4vip2/imgs/c/e/ce26bc3f.png",
+    "publishedAt": "2024-04-24T04:30:01Z",
+    "content": "1: 2024/04/23() 10:02:41.05 ID:gga2qeOl0"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "DIE WELT"
+    },
+    "author": "Daniel Eckert, Nando Sommerfeldt",
+    "title": "Teslas famoser Coup und die lukrative Mai-Methode",
+    "description": "In der heutigen Folge von „Alles auf Aktien“ sprechen die Finanzjournalisten Daniel Eckert und Nando Sommerfeldt über den furiosen Podcast-Boom bei Spotify, einen hohen Munich-Re-Gewinn und starke späte Zahlen von der Deutschen Börse AG.",
+    "url": "https://www.welt.de/podcasts/alles-auf-aktien/article251186236/Boersen-Podcast-Teslas-famoser-Coup-Elon-Musk-ueberrascht-mit-Model-2-Prognose.html",
+    "urlToImage": "https://img.welt.de/img/podcasts/alles-auf-aktien/mobile244546092/3371354547-ci16x9-w1200/eckert-somm-DWO-Podcast-Teaser-AllesAufAktien-mit-2zu3-eckert-sommerfeld-aw.jpg",
+    "publishedAt": "2024-04-24T02:58:00Z",
+    "content": "Außerdem geht es um SAP, GE Vernova, GE Aerospace, Danaher, MSCI Inc., Visa, Mercedes-Benz Group, BMW, Open End Indexzertifikat Daxplus Seasonal Strategy von Unicredit (WKN: HV1DB6) und Xtrackers MSC… [+325 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "DIE WELT"
+    },
+    "author": "Christin Rodrigues",
+    "title": "AfD-Mitarbeiter unter Spionageverdacht – welche Folgen könnte es für die Partei geben?",
+    "description": "Erst wurden zwei mutmaßliche russische Spione festgenommen. Nun stehen vier weitere Personen unter Verdacht, für den chinesischen Geheimdienst zu arbeiten. Unter ihnen auch ein AfD-Mitarbeiter. WELT-Investigativ-Journalist Lennart Pfahler erklärt, was Spionag…",
+    "url": "https://www.welt.de/podcasts/article251186064/AfD-Mitarbeiter-unter-Spionageverdacht-welche-Folgen-koennte-es-fuer-die-Partei-geben-Politik-Podcast.html",
+    "urlToImage": "https://img.welt.de/img/podcasts/mobile250783598/7091355987-ci16x9-w1200/DWO-Podcast-Teaser-Das-bringt-der-Tag-rodrigues-aw.jpg",
+    "publishedAt": "2024-04-24T03:01:16Z",
+    "content": "Hier können Sie die aktuelle Folge von Das bringt der Tag direkt hören:\r\nAbonnieren Sie den Podcast unter anderem bei Spotify, Apple Podcasts oder Amazon Music.\r\nDas bringt der Tag jeden Morgen ab 5 … [+805 chars]"
+    },
+    {
+    "source": {
+    "id": "focus",
+    "name": "Focus"
+    },
+    "author": "FOCUS online",
+    "title": "TikTok vor dem Aus in den USA? - Wie Nutzer weiterhin die App nutzen könnten",
+    "description": "US-Bann von TikTok in Planung: Was bedeutet das für die Nutzer und wie könnten sie reagieren?",
+    "url": "https://www.focus.de/politik/ausland/tiktok-vor-dem-aus-in-den-usa-wie-nutzer-weiterhin-die-app-nutzen-koennten_id_259883907.html",
+    "urlToImage": "https://p6.focus.de/img/fotos/id_259883903/tiktok-ap.jpg?im=Crop%3D%280%2C289%2C3463%2C1731%29%3BResize%3D%281200%2C627%29&impolicy=perceptual&quality=mediumHigh&hash=4b337dd96ffeacc0436718860069f749f8a9ef9371bbc863f955b29e5a03b582",
+    "publishedAt": "2024-04-24T07:02:30Z",
+    "content": "US-Bann von TikTok in Planung: Was bedeutet das für die Nutzer und wie könnten sie reagieren?Nach langjährigen Bemühungen, darunter auch von Ex-Präsident Donald Trump, hat ein Gesetzesvorschlag zur V… [+2548 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Techbang.com"
+    },
+    "author": "KKJ",
+    "title": "新款iPad Air即將登場：史上最大、最貴，搭載12.9吋Mini LED螢幕",
+    "description": "新款 iPad Air 及 iPad Pro，終於要發表了。而關於新的iPad Air，目前傳聞將會是一款 12.9 吋大螢幕的iPad Air。Apple 將於台灣時間 5 月 7 日晚上 11 點，舉辦一場主題為「Let loose.」的線上特別活動，預計到時將會發布新款 iPad Air 及 iPad Pro，以及新款 Apple Pencil。\n謠言許久的新款 iPad Air 及 iPad Pro，終於要發表了。而關於新的iPad Air，目前傳聞將會是一款 12.9 吋大螢幕的iPad Air。\n先前…",
+    "url": "https://www.techbang.com/posts/114736-ipad-air129mini-led",
+    "urlToImage": "https://cdn1.techbang.com/system/excerpt_images/114736/original/6c855a7e1230cf65ccc7046c0f9036b7.jpg?1713919022",
+    "publishedAt": "2024-04-24T02:30:00Z",
+    "content": "Apple 5 7 11 Let loose. iPad Air iPad Pro Apple Pencil\r\n iPad Air iPad ProiPad Air 12.9 iPad Air\r\n 12.9iPad Air iPad Pro iPad ProiPad Air iPad Pro\r\n 12.9iPad AiriPad ProiPad Air \r\nDSCCRoss Young12.9i… [+243 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Techbang.com"
+    },
+    "author": "ycr",
+    "title": "母親節優惠開跑！遠傳網路門市「4月歡樂99」 iPhone 15 指定機款最高再折 7,299 元",
+    "description": "遠傳網路門市母親節優惠早鳥開跑！遠傳「4月歡樂99」限時優惠：申辦5G月付599元現賺3400元購物金、限時加碼99GB；iPhone 15指定機款最高再折7,299元、還有A品福利機限量搶辦。母親節檔期活動搶先開跑！遠傳網路門市四月祭出「4月歡樂99」限時優惠方案，單辦門號或是搭配手機／超夯 3C 都有優惠：4 月底前申辦指定單門號，5G 限時加送 99GB 上網流量，4G 額外贈 600 元購物金，加碼再抽總價萬元遠百禮券；申辦 iPhone 15 Pro 系列 1TB 機款，搭配指定方案最高再折 7,299…",
+    "url": "https://www.techbang.com/posts/114762-mothers-day-discount-far-eastone-telecommunications-network",
+    "urlToImage": "https://cdn1.techbang.com/system/excerpt_images/114762/original/bbbc71a0175df505444410036c333742.jpg?1713755123",
+    "publishedAt": "2024-04-24T05:30:00Z",
+    "content": "499 3C 4 5G 99GB 4G 600 iPhone 15 Pro 1TB 7,299 iPhone \r\n iPhone 15 Pro 1TB 7,299 \r\n iPhone iPhone 15 Pro 1TBiPhone 15 Pro Max 1TB 999 7,299 iPhone 15 2,500 \r\niPhone 14 A 3CApple 3,000 2,500 \r\n5G 599… [+82 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Inside.com.tw"
+    },
+    "author": "Jocelyn",
+    "title": "新 iPad 要來了！Apple 春季發表會 5/7 登場",
+    "description": "iPad 系列產品將迎來 2018 年以來最大升級，同時也可能推出新版 Apple Pencil 和巧控鍵盤。",
+    "url": "https://www.inside.com.tw/article/34832-apple-ipad-launch-event",
+    "urlToImage": "https://bucket-image.inkmaginecms.com/1/image/2024/04/f423c2b0-0381-4c1c-a94b-9c384ee6e707.jpg?w=1200&h=630&fit=crop&auto=compress",
+    "publishedAt": "2024-04-24T07:01:00Z",
+    "content": "2024 500 Digital and Green TransformationCity COP \r\nICLEICityNetWeGO COP28 2050 \r\nCity COP\r\nPhoto CreditTNL Brand Studio\r\n2005 21% 1379 \r\n 2050 CityNet\r\nICLEI Gino Van Begin GDP \r\nICLEI Gino Van Begi… [+573 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Digiday"
+    },
+    "author": "Cloey Callahan",
+    "title": "A history of middle manager stress: The Return podcast, season 3, episode 1",
+    "description": "In episode one, McKinsey partner Emily Field tells us more about why middle management is critically important to the workforce.",
+    "url": "http://digiday.com/marketing/a-history-of-middle-manager-stress-the-return-podcast-season-3-episode-1/",
+    "urlToImage": "https://digiday.com/wp-content/uploads/sites/3/2024/04/season-three-return.jpg",
+    "publishedAt": "2024-04-24T04:01:00Z",
+    "content": "This article is part of a special podcast series that covers the challenges and opportunities of returning to the office. More from the series →Middle managers have been underwater since the 70s.The … [+2062 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Digiday"
+    },
+    "author": "Tim Peterson",
+    "title": "Future of TV Briefing: Sneak peek at ‘The Future of TV’ video series",
+    "description": "This week’s Future of TV Briefing looks at the upcoming “The Future of TV” video series, which will debut next week and explore the state of the streaming ad industry.",
+    "url": "http://digiday.com/future-of-tv/future-of-tv-briefing-sneak-peek-at-the-future-of-tv-video-series/",
+    "urlToImage": "https://digiday.com/wp-content/uploads/sites/3/2023/11/revamp-tv-digiday.gif",
+    "publishedAt": "2024-04-24T04:01:00Z",
+    "content": "This Future of TV Briefing covers the latest in streaming and TV for Digiday+ members and is distributed over email every Wednesday at 10 a.m. ET. More from the series →\r\nThis weeks Future of TV Brie… [+7829 chars]"
+    },
+    {
+    "source": {
+    "id": "techradar",
+    "name": "TechRadar"
+    },
+    "author": "James Rogerson",
+    "title": "The 11-inch iPad Pro 2024 might be hard to get hold of at launch",
+    "description": "Samsung is reportedly having issues making screens for the 11-inch iPad Pro 2024, which could lead to limited supplies.",
+    "url": "https://www.techradar.com/tablets/ipad-pro/the-11-inch-ipad-pro-2024-might-be-hard-to-get-hold-of-at-launch",
+    "urlToImage": "https://cdn.mos.cms.futurecdn.net/wxTE5FzfQYNWngYWPQQkQB-1200-80.jpg",
+    "publishedAt": "2024-04-24T10:11:29Z",
+    "content": "We’ve been waiting a long time for new iPads, and that wait is probably almost over, as Apple is holding an event on May 7 where we’ll almost certainly see new tablets. But one of those tablets might… [+2531 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Forbes"
+    },
+    "author": "Trefis Team, Contributor, \n Trefis Team, Contributor\n https://www.forbes.com/sites/greatspeculations/people/trefis/",
+    "title": "China In Focus As Apple Reports Q2 Results",
+    "description": "We expect earnings to stand at $1.52 per share, marginally ahead of consensus estimates.",
+    "url": "https://www.forbes.com/sites/greatspeculations/2024/04/24/china-in-focus-as-apple-reports-q2-results/",
+    "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/662898b60dd80e9274f0e393/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+    "publishedAt": "2024-04-24T09:00:55Z",
+    "content": "Apple Watch SE is seen in a store in Krakow, Poland on April 20, 2024. (Photo by Jakub ... [+] Porzycki/NurPhoto via Getty Images)\r\nNurPhoto via Getty Images\r\nAppleApple\r\n is expected to publish its … [+4303 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Forbes"
+    },
+    "author": "Robert Hart, Forbes Staff, \n Robert Hart, Forbes Staff\n https://www.forbes.com/sites/roberthart/",
+    "title": "Apple And Fortnite Maker Epic Games Are Heading Back To Court Again — Here’s Why",
+    "description": "Epic Games CEO Tim Sweeney asked the court to hold Apple in civil contempt and accused the iPhone maker of acting in “bad-faith” with its new policies opening up App Store payments.",
+    "url": "https://www.forbes.com/sites/roberthart/2024/04/24/apple-and-fortnite-maker-epic-games-are-heading-back-to-court-again---heres-why/",
+    "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6628d852e728544bbc1af481/0x0.jpg?format=jpg&crop=3000,1687,x0,y156,safe&height=900&width=1600&fit=bounds",
+    "publishedAt": "2024-04-24T10:13:41Z",
+    "content": "Apple and Epic Games are heading back to court next month after the Fortnite maker accused the tech giant of a bad-faith attempt to open up App Store payments, according to a court order issued Tuesd… [+3536 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Forbes"
+    },
+    "author": "David Phelan, Senior Contributor, \n David Phelan, Senior Contributor\n https://www.forbes.com/sites/davidphelan/",
+    "title": "Huawei’s Pura 70 Ultra Beats iPhone With Pioneering New Feature",
+    "description": "The latest phone from Huawei has key new communications features which could be crucial in emergency.",
+    "url": "https://www.forbes.com/sites/davidphelan/2024/04/24/huaweis-pura-70-ultra-beats-iphone-with-pioneering-new-feature-upgrade-samsung-galaxy-s24-google-pixel-iphone-15-pro-max/",
+    "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6624e19422dd1088c271d702/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+    "publishedAt": "2024-04-24T08:42:29Z",
+    "content": "Huawei just announced its latest phones, the Pura 70 range. There are plenty of updates and improvements, including a retractable zoom lens, but the company also introduced a key communications featu… [+5861 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Forbes"
+    },
+    "author": "Brad Japhe, Senior Contributor, \n Brad Japhe, Senior Contributor\n https://www.forbes.com/sites/bradjaphe/",
+    "title": "Real Beer And Reel Talk With The Star And Filmmaker Of Snack Shack",
+    "description": "Writer-Director Adam Rehmeier and star Conor Sherry share thoughts on craft beer and drink culture—in early '90s Nebraska.",
+    "url": "https://www.forbes.com/sites/bradjaphe/2024/04/24/real-beer-and-reel-talk-with-the-star-and-filmmaker-of-snack-shack/",
+    "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6628ade052479efe58231b30/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+    "publishedAt": "2024-04-24T08:30:51Z",
+    "content": "Adam Rehmeier (left) directs his lead actor, Conor Sherry, in the opening scene of Snack Shack\r\nRepublic Pictures\r\nNot even five minutes into Snack Shack, the films protagonists discus the proper tem… [+7915 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Danshihack.com"
+    },
+    "author": "野村 純平",
+    "title": "Apple、スペシャルイベント「Let Loose」（何でもあり）を5月7日に開催。新型iPadを発表か",
+    "description": "Appleは4月24日、スペシャルイベント「Let Loose」（邦題：何でもあり）を5月7日に開催すると発表しました。発表されたヴィジュアルから、iPad関連の発表がされる見通しです。 Appleがスペシャルイベント「…",
+    "url": "https://www.danshihack.com/2024/04/24/junp/apple-event-let-loose.html",
+    "urlToImage": "https://www.danshihack.com/wp-content/uploads/2024/04/apple-event-let-loose.jpeg",
+    "publishedAt": "2024-04-24T03:28:13Z",
+    "content": "AppleLet Loose5723\r\nApple - AppleApple PenciliPad\r\nPencil us in for May 7! ✏️ #AppleEventpic.twitter.com/1tvyB7h450\r\n— Tim Cook (@tim_cook) April 23, 2024\r\nELM3iPad ProMagic KeyboardApple PenciliPad … [+6 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Hdblog.it"
+    },
+    "author": "HDblog.it",
+    "title": "Apple rilascia le beta 3 di iOS/iPadOS 17.5, macOS 14.5, watchOS 10.5 e visionOS 1.2",
+    "description": "Corretti bug e a migliorte le prestazioni",
+    "url": "https://www.hdblog.it/smartphone/articoli/n581649/apple-beta-3-ios-ipados-macos-visionos/",
+    "urlToImage": "https://hd2.tudocdn.net/1153954?w=1920",
+    "publishedAt": "2024-04-24T07:05:00Z",
+    "content": "Apple ha rilasciato le beta 3 diiOS e iPadOS 17.5(build 21F5063f), di macOS 14.5 (23F5064f), watchOS 10.5 (21T5560d) e tvOS 17.5 (21L5558d). Rilasciata anche la terza beta di visionOS 1.2 (21O5570d),… [+3982 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Hdblog.it"
+    },
+    "author": "HDblog.it",
+    "title": "iPhone SE 4: design rinnovato, ma l'attesa slitta al 2025 | Rumor",
+    "description": "Ci vorrà ancora un po' di attesa",
+    "url": "https://www.hdblog.it/smartphone/articoli/n581669/iphone-se-4-design-rinnovato-attesa-slitta-2025/",
+    "urlToImage": "https://hd2.tudocdn.net/1151489?w=1920",
+    "publishedAt": "2024-04-24T08:52:00Z",
+    "content": "Si allontanano le speranze di mettere le mani su un iPhone SE 4 low-cost entro la fine del 2024. Secondo Mark Gurman, analista di Bloomberg, Apple starebbe valutando di lanciare il nuovo modello nel … [+1889 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Antyweb.pl"
+    },
+    "author": "Kamil Pieczonka",
+    "title": "Google popsuło płatności zbliżeniowe, ale powiem wam jak je naprawić",
+    "description": "Google lubi ułatwiać nam życie, ale czasami wprowadzane zmiany, które mimo, że mają na celu zwiększenia bezpieczeństwa, stają się strasznie męczące. Tak jest właśnie w przypadku Google Pay, który po ostatniej aktualizacji znacznie częściej prosi o weryfikację…",
+    "url": "https://antyweb.pl/google-pay-weryfikacja-platnosci-wkurza-uzytkownikow",
+    "urlToImage": "https://antyweb.pl/img/1250/550/fit/wp-content/uploads/2022/04/zmarm9dk7h/pay.jpg",
+    "publishedAt": "2024-04-24T07:24:25Z",
+    "content": "Patnoci zblieniowe smartfonem to ju dla wielu z nas chleb powszedni. W zasadzie bdc w sklepie mam wraenie, e czciej ludzie sigaj po smartfona lub zegarek ni po kart patnicz. Sam w zasadzie nie nosz z… [+2930 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Iphoneitalia.com"
+    },
+    "author": "Giuseppe Migliorino",
+    "title": "Apple TV+ pubblica il trailer della quarta stagione di Trying",
+    "description": "La quarta stagione di Trying si mostra nel primo trailer ufficiale. \nLink all'articolo originale: Apple TV+ pubblica il trailer della quarta stagione di Trying",
+    "url": "https://www.iphoneitalia.com/825404/trailer-trying-quarta-stagione",
+    "urlToImage": "https://static.iphoneitalia.com/wp-content/uploads/2024/04/Trying-4-trailer.jpg",
+    "publishedAt": "2024-04-24T09:00:16Z",
+    "content": "Apple ha condiviso il trailer ufficiale della quarta stagione di “Trying”, con Esther Smith e Rafe Spall.\r\nLa sitcom con episodi da 30 minuti segue una coppia britannica che desidera un figlio, ma è … [+1280 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "taz.de"
+    },
+    "author": "taz. die tageszeitung",
+    "title": "Geld und Waffen für Ukraine und Israel: US-Kongress billigt Hilfspaket",
+    "description": "Die Ukraine, Israel und Taiwan bekommen insgesamt Hilfen in Höhe von 95 Milliarden US-Dollar. Der Entscheidung ging ein monatelanger Konflikt voraus.",
+    "url": "https://taz.de/Geld-und-Waffen-fuer-Ukraine-und-Israel/!6006596/",
+    "urlToImage": "https://taz.de/picture/6963578/948/35088621-1.jpeg",
+    "publishedAt": "2024-04-24T06:42:00Z",
+    "content": "Die Ukraine, Israel und Taiwan bekommen insgesamt Hilfen in Höhe von 95 Milliarden US-Dollar. Der Entscheidung ging ein monatelanger Konflikt voraus.\r\nWas lange währt, wird endlich gut: Die Republika… [+4819 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Olhardigital.com.br"
+    },
+    "author": "Leandro Costa Criscuolo",
+    "title": "Meta abre o sistema operacional do Quest para terceiros",
+    "description": "Duas marcas já devem aproveitar o sistema operacional do Quest para lançarem os seus próprios headsets de realidade aumentada\nO post Meta abre o sistema operacional do Quest para terceiros apareceu primeiro em Olhar Digital.",
+    "url": "https://olhardigital.com.br/2024/04/24/pro/meta-abre-o-sistema-operacional-do-quest-para-terceiros/",
+    "urlToImage": "https://olhardigital.com.br/wp-content/uploads/2024/04/meta-quest-695x500.jpg",
+    "publishedAt": "2024-04-24T05:40:00Z",
+    "content": "A Meta anunciou na segunda-feira (22) que está abrindo o sistema operacional do Quest para empresas terceirizadas, permitindo que elas construam os seus próprios headsets. As informações são do site … [+1493 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Biztoc.com"
+    },
+    "author": "siliconrepublic.com",
+    "title": "EU lawmakers approve right to repair rules to reduce waste",
+    "description": "The new rules will come into effect in roughly two years and aim to make it easier and cheaper for consumers to have their products repaired and reduce the amount of waste in the EU. The EU parliament has adopted a right to repair directive, that aims to forc…",
+    "url": "https://biztoc.com/x/2f358e3932e30ab0",
+    "urlToImage": "https://c.biztoc.com/p/2f358e3932e30ab0/s.webp",
+    "publishedAt": "2024-04-24T09:28:07Z",
+    "content": "The new rules will come into effect in roughly two years and aim to make it easier and cheaper for consumers to have their products repaired and reduce the amount of waste in the EU.The EU parliament… [+325 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "3dnews.ru"
+    },
+    "author": null,
+    "title": "Европарламент постановил, что гарантия на гаджеты должна продлеваться после их ремонта",
+    "description": "Европарламент проголосовал за новые нормы, которые значительно расширят гражданам право на ремонт во всех странах, входящих в ЕС. Эти нормы дают потребителям возможность запрашивать у производителей поддержку по вопросам самостоятельного ремонта товаров и уже…",
+    "url": "https://3dnews.ru/1103755/evroparlament-progolosoval-na-rasshirenie-prava-na-remont-dlya-gragdan",
+    "urlToImage": "https://3dnews.ru/assets/external/illustrations/2024/04/24/1103755/mobile.jpg",
+    "publishedAt": "2024-04-24T08:28:00Z",
+    "content": ", , . .\r\n: Bruno / pixabay.com\r\n, , . , . 3D- ; , - , .\r\n -, , , , . Apple : . , — .\r\n, . « », , , , . , . , , , ."
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "3dnews.ru"
+    },
+    "author": null,
+    "title": "Электрический «Гелендваген» представлен официально: четыре мотора и синтетический звук от двигателя",
+    "description": "Сегодня у любителей всего угловатого, немецкого и дорогого праздник — компания Mercedes-Benz представила давно обещанный электрический вариант культового внедорожника Geländewagen в модификации G 580 с четырьмя тяговыми электродвигателями и способностью «танк…",
+    "url": "https://3dnews.ru/1103762/elektricheskiy-mercedesbenz-g-580-predstavlen-ofitsialno-chetire-elektrodvigatelya-i-sinteziruemiy-zvuk-motora",
+    "urlToImage": "https://3dnews.ru/assets/external/illustrations/2024/04/24/1103762/gw_01.jpg",
+    "publishedAt": "2024-04-24T09:54:00Z",
+    "content": ", — Mercedes-Benz Geländewagen G 580 « ». - , .\r\n: Mercedes-Benz\r\n3500 , , 415 . , , . — 116 , , 473 WLTP. , , .\r\n , , 579 .. 1164 , , G-Klasse . « » . , . , , . . Mercedes-Benz , , - .\r\n, , : \" \" , … [+358 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Geekpark.net"
+    },
+    "author": null,
+    "title": "雷军：小米 SU7 毛利高于 5%；苹果 5 月 7 日发新 iPad；「AI搜索」Perplexity 估值超 10 亿美元",
+    "description": "新款 iPad Air 和 iPad Pro 将于 5 月 7 日发布\n4 月 24 日消息，苹果公司宣布将于太平洋时间 5 月 7 日星期二上午 7 点（东部时间上午 10 点）举行新款 iPad 发布会，在此次发布会上，苹果预计将发布新款 iPad Pro 和 iPad Air，以及更新的 Apple Pencil 和 Magic Keyboard 配件。\n活动邀请函上的标语是「Let Loose」，名为「放飞自我」。活动时间比平时早了一些，安排在东部时间上午 10 点。与苹果公司的其他活动一样，这次活动将通…",
+    "url": "https://www.geekpark.net/news/334154",
+    "urlToImage": "https://imgslim.geekpark.net/uploads/image/file/7e/22/7e22fefc3fcf1894bdce8efcb5726b01.png",
+    "publishedAt": "2024-04-24T00:13:16Z",
+    "content": "iPad Air iPad Pro 5 7 \r\n4 24 5 7 7 10 iPad iPad Pro iPad Air Apple Pencil Magic Keyboard \r\nLet Loose 10 Apple TV YouTube \r\n 2023 iPad iPad Air 10.9 12.9 iPad Pro OLED LED iPad iPad mini 2024 cnBeta\r\n… [+775 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Javacodegeeks.com"
+    },
+    "author": "Eleftheria Drosopoulou",
+    "title": "Java 22: What’s New?",
+    "description": "Java 22, released in March 2024, brings a set of enhancements aimed at improving developer experience, code readability, and performance. There are 12 key features, including a mix of final additions and preview features that are still under development. Here…",
+    "url": "https://www.javacodegeeks.com/2024/04/java-22-whats-new.html",
+    "urlToImage": "https://www.javacodegeeks.com/wp-content/uploads/2012/10/java-logo.jpg",
+    "publishedAt": "2024-04-24T05:00:00Z",
+    "content": "Java 22, released in March 2024, brings a set of enhancements aimed at improving developer experience, code readability, and performance. There are 12 key features, including a mix of final additions… [+4814 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Tinhte.vn"
+    },
+    "author": "no-reply@tinhte.vn (Anh Tú.), Anh Tú.",
+    "title": "Apple phát hành iOS 17.5 dev beta 3 và một số phần mềm khác",
+    "description": "Hôm nay Apple đã tung ra phiên bản dev beta thứ ba cho các bản cập nhật iOS 17.5 và iPadOS 17.5 cho các nhà phát triển để thử nghiệm. Bản cập nhật này được tung ra chỉ một tuần sau khi Apple phát hành phiên bản dev beta thứ hai.\n \nhttps://tinhte.",
+    "url": "https://tinhte.vn/thread/apple-phat-hanh-ios-17-5-dev-beta-3-va-mot-so-phan-mem-khac.3781153/",
+    "urlToImage": "https://photo2.tinhte.vn/data/attachment-files/2024/04/8316939_ios_17.5_cover.png",
+    "publishedAt": "2024-04-24T00:03:05Z",
+    "content": "Hu ht các tính nng mà Apple ã ha hn s có trong iOS 17 u ã c phát hành, i vi riêng iOS 17.5 thì h ã b sung thêm các thay i v h sinh thái ng dng ti Liên minh Châu Âu. Các nhà phát trin ng dng có th cun… [+482 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Tinhte.vn"
+    },
+    "author": "no-reply@tinhte.vn (vn_ninja), vn_ninja",
+    "title": "Thị trường smartphone Trung Quốc Q1 2024: Apple giảm sâu, Huawei lên",
+    "description": "Báo cáo mới từ Counterpoint Research cho biết doanh số smartphone tại thị trường Trung Quốc đã tăng trưởng 1,5% trong quý 1 2024 so với cùng kỳ năm ngoái, đánh dấu quý thứ 2 liên tiếp có mức tăng trưởng dương theo năm.",
+    "url": "https://tinhte.vn/thread/thi-truong-smartphone-trung-quoc-q1-2024-apple-giam-sau-huawei-len.3781105/",
+    "urlToImage": "https://photo2.tinhte.vn/data/attachment-files/2024/04/8316810_cover-Huawei-Mate-60-tinhte.jpg",
+    "publishedAt": "2024-04-24T02:04:35Z",
+    "content": "Apple ng th 3 vi 15,7% th phn, chu mc st gim n 19,1% theo nm, cao nht trong top 6. Doanh s ca Apple st gim do s tr li ca Huawei ã tác ng trc tip n phân khúc cao cp (giá trên 600 USD). Ngoài ra nhu cu… [+1508 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Tinhte.vn"
+    },
+    "author": "no-reply@tinhte.vn (Anh Tú.), Anh Tú.",
+    "title": "Business Insider: iFan đã bắt đầu hết hứng thú với Apple Vision Pro",
+    "description": "Mới vài tháng sau khi chiếc kính thực tế ảo Vision Pro lên kệ, nhiều anh em mê công nghệ trong lẫn ngoài nước đã bắt đầu chán món đồ chơi này. Hồi tháng 2, thiết bị này từng gây sốt với hàng dài người xếp hàng chờ mua tại các Apple Store.",
+    "url": "https://tinhte.vn/thread/business-insider-ifan-da-bat-dau-het-hung-thu-voi-apple-vision-pro.3781056/",
+    "urlToImage": "https://photo2.tinhte.vn/data/attachment-files/2024/04/8316711_8304900-Review-Apple-Vision-Pro-Anh-Tu-Tinhte-07.jpg",
+    "publishedAt": "2024-04-24T07:04:41Z",
+    "content": "Trc tình hình m, Apple dng nh ang c gng y mnh qung bá cho Vision Pro bng cách t nó v trí ni bt trên trang web ca hãng. Trên các din àn Reddit v Vision Pro, nhiu ngi dùng phàn nàn rng thit b này bt ti… [+841 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Netafull.net"
+    },
+    "author": "コグレマサト",
+    "title": "Apple、2024年後半についにiPad向け電卓アプリをリリースか",
+    "description": "Appleが、2024年後半についにiPad向け電卓アプリをリリースする計画を立てているということです。MacRumorsが、Apple Finally Plans to Release a Calculator App...\n投稿 Apple、2024年後半についにiPad向け電卓アプリをリリースか は ネタフル に最初に表示されました。",
+    "url": "https://netafull.net/ipad/0149423.html",
+    "urlToImage": "https://netafull.net/wp-content/uploads/2024/04/ipad-calc-2024.jpg",
+    "publishedAt": "2024-04-24T01:00:00Z",
+    "content": "Apple is finally planning a Calculator app for the iPad, over 14 years after launching the device, according to a source familiar with the matter."
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Computerra.ru"
+    },
+    "author": "Компьютерра",
+    "title": "В умные очки Meta* Ray-Ban внедрили видеосвязь, Apple Music и мультимодальный ИИ",
+    "description": "Meta* внедряет в Ray-Ban видеосвязь, Apple Music и функции мультимодального искусственного интеллекта, позволяющие ИИ-помощнику использовать камеру и микрофоны очков для восприятия окружающей среды. Meta* объявила, что внедрила в Ray-Ban видеосвязь, Apple Mus…",
+    "url": "https://www.computerra.ru/296413/v-umnye-ochki-meta-ray-ban-vnedrili-videosvyaz-apple-music-i-multimodalnyj-ii/",
+    "urlToImage": "https://www.computerra.ru/wp-content/uploads/2024/04/facebook_ray-ban_stories_datenbrille.jpg",
+    "publishedAt": "2024-04-24T08:31:57Z",
+    "content": "Meta* Ray-Ban , Apple Music , - .\r\nMeta* , Ray-Ban , Apple Music , , - .\r\n- Meta* Ray-Ban 2021 . EssilorLuxottica. , .\r\nMeta* Ray-Ban :\r\n « ». Meta* - Ray-Ban Scuderia Ferrari.\r\n Ray-Ban Meta* AI. , … [+246 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Skift"
+    },
+    "author": "Skift",
+    "title": "Atlanta’s Michelin Guide Deal Translates to Tourism Dollars",
+    "description": "Today's podcast looks at Atlanta's Michelin deal, JetBlue's quarterly earnings, and how Amadeus uses AI. -Rashaad Jorden",
+    "url": "http://skift.com/2024/04/24/atlantas-michelin-guide-deal-translates-to-tourism-dollars/",
+    "urlToImage": "https://skift.com/wp-content/uploads/2024/04/atlanta-stadiums.jpg",
+    "publishedAt": "2024-04-24T06:36:20Z",
+    "content": "Good morning from Skift. Its Wednesday, April 24. Heres what you need to know about the business of travel today.\r\nApple Podcasts | Spotify | Overcast | Google Podcasts | Amazon Podcasts\r\nAtlanta rec… [+1954 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Courrier International"
+    },
+    "author": null,
+    "title": "Guerre en Ukraine : comment la Russie contourne les sanctions occidentales",
+    "description": "À la suite de l’invasion russe en Ukraine, plusieurs entreprises ont annoncé rompre leurs relations commerciales avec la Russie. Pourtant, deux ans après le début de la guerre, de nombreux produits occidentaux continuent de circuler sur le marché russe. Expli…",
+    "url": "https://www.courrierinternational.com/video/video-guerre-en-ukraine-comment-la-russie-contourne-les-sanctions-occidentales",
+    "urlToImage": "https://focus.courrierinternational.com/2024/04/23/0/150/1620/1080/1200/630/60/0/2609b86_1713887981533-youtube-00-04-58-19-still001.jpg",
+    "publishedAt": "2024-04-24T09:07:49Z",
+    "content": "Les sanctions économiques occidentales contre la Russie sont-elles inefficaces ? Cest ce que semble montrer une vidéo dun influenceur texan publiée en mars sur le réseau social TikTok. On y voit les … [+2611 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Tinhte.vn"
+    },
+    "author": "no-reply@tinhte.vn (Anh Tú.), Anh Tú.",
+    "title": "Ming-Chi Kuo: Apple đã giảm số lượng kính Vision Pro bán ra do nhu cầu giảm mạnh hơn dự kiến",
+    "description": "Theo nhà phân tích Ming-Chi Kuo, Apple đã giảm số lượng kính Vision Pro dự kiến bán ra trong năm 2024 xuống còn 400–450 nghìn chiếc (dự đoán của thị trường là 700-800 nghìn chiếc). Việc cắt giảm đơn hàng diễn ra trước khi Vision Pro được bán ra ở…",
+    "url": "https://tinhte.vn/thread/ming-chi-kuo-apple-da-giam-so-luong-kinh-vision-pro-ban-ra-do-nhu-cau-giam-manh-hon-du-kien.3781151/",
+    "urlToImage": "https://photo2.tinhte.vn/data/attachment-files/2024/04/8316936_8240209-Cover-apple-vision-pro-demo-tinhte-anhtu.webp",
+    "publishedAt": "2024-04-24T01:04:29Z",
+    "content": "Theo nhà phân tích Ming-Chi Kuo, Apple ã gim s lng kính Vision Pro d kin bán ra trong nm 2024 xung còn 400450 nghìn chic (d oán ca th trng là 700-800 nghìn chic). Vic ct gim n hàng din ra trc khi Vis… [+306 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Tinhte.vn"
+    },
+    "author": "no-reply@tinhte.vn (Lư Thế Nghĩa), Lư Thế Nghĩa",
+    "title": "Lộ thiết kế chip di động AMD Zen 5 Strix Halo nền chiplet, cấu hình 'khủng long'",
+    "description": "Nếu những thông tin dưới đây là sự thật, AMD rõ ràng đang \"ủ mưu\" không hề nhỏ trong việc chiếm lĩnh thị phần chip di động đang bị cạnh tranh gắt gao với Apple, Intel và Qualcomm.\n \nNguồn tin từ diễn đàn ChipHell mới đây cho thấy…",
+    "url": "https://tinhte.vn/thread/lo-thiet-ke-chip-di-dong-amd-zen-5-strix-halo-nen-chiplet-cau-hinh-khung-long.3781071/",
+    "urlToImage": "https://photo2.tinhte.vn/data/attachment-files/2024/04/8316761_cover-amd-ryzen-strix-halo-mobile-cpu-tinhte.jpg",
+    "publishedAt": "2024-04-24T07:37:36Z",
+    "content": "Quay li mô t t ChipHell, Strix Halo thc s là \"gic m\" v mt mu APU cao cp mà AMD áng ra nên làm t nhiu nm nay. Tuy nhiên do các vn khó khn v tài chính ln công ngh và tp khách hàng tim nng, nên ti nay S… [+1582 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Spidersweb.pl"
+    },
+    "author": "Maciej Gajewski",
+    "title": "Miała być rewolucja, jest totalna porażka. W siedzibie Apple’a przeżyli szok",
+    "description": "Vision Pro to dopiero pierwszy krok, by spopularyzować wirtualną rzeczywistość na mainstreamowym rynku. Kroczek mniejszy niż niektórzy mieli nadzieję.",
+    "url": "https://spidersweb.pl/2024/04/apple-vision-pro-sprzedaz.html",
+    "urlToImage": "https://ocs-pl.oktawave.com/v1/AUTH_2887234e-384a-4873-8bc5-405211db13a2/spidersweb/2023/06/apple-vision-pro.jpeg",
+    "publishedAt": "2024-04-24T03:50:00Z",
+    "content": "Apple Vision Pro wyposaone s wywietlacz OLED, potny i sprawny chipset, ledzenie oczu i przestrzenny dwik. Umoliwiaj przegldanie Internetu w Safari, tworzenie listy zada w Notatkach, czatowanie w Wiad… [+423 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Daily Beast"
+    },
+    "author": "Coleman Spilde",
+    "title": "‘The Big Door Prize’ Is the Best Comedy Series You’re Not Watching",
+    "description": "Apple TV+\r\nWhen we last left the residents of Deerfield, the fictional Midwest town at the center of the strange occurrences in The Big Door Prize, everyone was zapped of energy—in some cases, quite literally. The Season 1 finale of Apple TV+’s existential co…",
+    "url": "https://www.thedailybeast.com/obsessed/the-big-door-prize-season-2-the-best-comedy-youre-not-watching",
+    "urlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_675,w_1200,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1713908427/240423-Spilde-Big-Door-Prize-hero_auul26",
+    "publishedAt": "2024-04-24T08:24:49Z",
+    "content": "When we last left the residents of Deerfield, the fictional Midwest town at the center of the strange occurrences in The Big Door Prize, everyone was zapped of energyin some cases, quite literally. T… [+6174 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Daily Beast"
+    },
+    "author": "Matt Wilstein",
+    "title": "Laura Benanti on Embracing Comedy and Getting Inside Melania Trump’s Head",
+    "description": "Photo Illustration by The Daily Beast/Handout\r\nLaura Benanti has been nominated for five Tony Awards (with one win) and appeared in dozens of TV shows and movies since making her Broadway debut at 19 years old as Maria in The Sound of Music. But as the title …",
+    "url": "https://www.thedailybeast.com/laura-benanti-on-embracing-comedy-and-getting-inside-melania-trumps-head",
+    "urlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1688,w_3000,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1713905180/240423-Wilstein-last-laugh-hero_jexwjo",
+    "publishedAt": "2024-04-24T08:29:42Z",
+    "content": "Laura Benanti has been nominated for five Tony Awards (with one win) and appeared in dozens of TV shows and movies since making her Broadway debut at 19 years old as Maria in The Sound of Music. But … [+4694 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Elespanol.com"
+    },
+    "author": "César Rebolledo",
+    "title": "FREE FIRE MAX | Códigos de hoy miércoles 24 de abril de 2024 - Recompensas gratis",
+    "description": "<!--cache-->Estos son todos los códigos gratis de Garena Free Fire MAX que podrás canjear hoy, miércoles 24 de abril de 2024. Consigue recompensas como skins, diamantes y mucho más.<!--aa--->El éxito para móviles Android e iOS, Garena Free Fire MAX, ha recibi…",
+    "url": "https://vandal.elespanol.com/noticia/1350770780/free-fire-max-codigos-de-hoy-miercoles-24-de-abril-de-2024-recompensas-gratis/",
+    "urlToImage": "https://media.vandal.net/ivandal/12/63/1200x630/4/4-2024/24/20244248484910_1.jpg",
+    "publishedAt": "2024-04-24T06:49:00Z",
+    "content": "El éxito para móviles Android e iOS, Garena Free Fire MAX, ha recibido nuevos códigos diarios para hoy miércoles 24 de abril de 2024. Los jugadores pueden canjear estos códigos para recibir recompens… [+2711 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Macitynet.it"
+    },
+    "author": "Fabrizio Frattini",
+    "title": "AAA Ancora di salvezza cercasi, Vision Pro vende metà del previsto",
+    "description": "Apple prevedeva vendite basse per Vision Pro ma per un analista sarebbero addirittura la metà di quelle più negative: la salvezza nei giochi?\n- su macitynet.it AAA Ancora di salvezza cercasi, Vision Pro vende metà del previsto",
+    "url": "https://www.macitynet.it/?p=1298883",
+    "urlToImage": "https://www.macitynet.it/wp-content/uploads/2024/02/visionproes2.jpg",
+    "publishedAt": "2024-04-24T10:14:17Z",
+    "content": "Forse non sarà proprio vero dire che il Vision Pro non se lo fila nessuno, come abbiamo titolato solo un paio di giorni fa, ma sembra corretta l’opinione di chi pensa che le vendite del visore per re… [+2432 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Macitynet.it"
+    },
+    "author": "Mauro Notarianni",
+    "title": "Con iPadOS 18 l’app Calcolatrice anche su iPad",
+    "description": "L'app Calcolatrice potrebbe finalmente arriverà anche in versione iPad con iPadOS 18. Ecco perché.\n- su macitynet.it Con iPadOS 18 l’app Calcolatrice anche su iPad",
+    "url": "https://www.macitynet.it/con-ipados-18-lapp-calcolatrice-anche-su-ipad/",
+    "urlToImage": "https://www.macitynet.it/wp-content/uploads/2024/04/Calcolatrice1200-jpg.webp",
+    "publishedAt": "2024-04-24T05:29:15Z",
+    "content": "L’app Calcolatrice potrebbe finalmente arriverà anche in versione iPad con iPadOS 18, la futura versione del sistema operativo dei tablet di Apple.\r\nA riferirlo è il sito statunitense Macrumors citan… [+2381 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Hwupgrade.it"
+    },
+    "author": null,
+    "title": "Apple e la calcolatrice su iPad: con il futuro iPadOS 18 potrebbe davvero arrivare per tutti",
+    "description": "L'App Calcolatrice potrebbe fare finalmente il suo debutto su iPad con iPadOS 18. La notizia continua a muoversi sul web ed è veramente possibile che Apple abbia finalmente trovato la quadra per realizzare l'app tanto sospirata e richiesta dagli utenti.",
+    "url": "https://www.hwupgrade.it/news/apple/apple-e-la-calcolatrice-su-ipad-con-il-futuro-ipados-18-potrebbe-davvero-arrivare-per-tutti_126549.html",
+    "urlToImage": "https://www.hwupgrade.it/i/n/CalcolatriceiPad_720.jpg",
+    "publishedAt": "2024-04-24T07:43:00Z",
+    "content": "Da anni gli utenti iPad aspettavano questo momento: dopo essere stata a lungo una prerogativa esclusiva di iPhone e Mac, l'app Calcolatrice potrebbe sbarcare finalmente anche sui tablet di Apple con … [+2330 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Hwupgrade.it"
+    },
+    "author": null,
+    "title": "I nuovi MacBook Pro con chip M3 e M3 Pro sono ora in offerta su Amazon: guardate a che prezzi sono scesi!",
+    "description": "I bellissimi MacBook Pro di nuova generazione con i chip M3 e M3 Pro sono scesi di prezzo su Amazon: ecco qui quali sono i più convenienti ora.",
+    "url": "https://www.hwupgrade.it/news/apple/i-nuovi-macbook-pro-con-chip-m3-e-m3-pro-sono-ora-in-offerta-su-amazon-guardate-a-che-prezzi-sono-scesi_126541.html",
+    "urlToImage": "https://www.hwupgrade.it/i/n/AppleMacBookM3_720.jpg",
+    "publishedAt": "2024-04-24T06:45:49Z",
+    "content": "Ecco qui i 3 MacBook Pro con chip M3 o M3 Pro più convenienti ora su Amazon, con prezzi ancora migliori rispetto allo store Apple. Motivo per cui conviene comprarli proprio su Amazon! Tra di loro cam… [+1861 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Hwupgrade.it"
+    },
+    "author": null,
+    "title": "Samsung Galaxy XCover 7: lo smartphone rugged che poteva fare di più! La recensione",
+    "description": "Il Galaxy XCover 7 è un vero e proprio rugged phone ossia uno smartphone votato alluso più estremo. Rispetto alla precedente generazione è senza dubbio più economico anche se alcune specifiche tecniche risultano forse inerenti più alla fascia bassa che a…",
+    "url": "https://www.hwupgrade.it/news/telefonia/samsung-galaxy-xcover-7-lo-smartphone-rugged-che-poteva-fare-di-piu-la-recensione_126518.html",
+    "urlToImage": "https://www.hwupgrade.it/i/n/GalaxyXCover7_720.jpg",
+    "publishedAt": "2024-04-24T10:01:01Z",
+    "content": "Il Samsung Galaxy XCover 7 è un ''rugged phone'' ossia uno smartphone votato all’uso più estremo. In questo caso, rispetto ad altri device di questo tipo, è senza dubbio un po' più economico anche se… [+25089 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Sapo.pt"
+    },
+    "author": "Pedro Simões",
+    "title": "Vendas do iPhone caem 20% no maior mercado do planeta enquanto a Huawei cresceu 70%",
+    "description": "O desempenho das vendas do iPhone parecem estar a perder fôlego, pelo menos em alguns mercados-chave para a Apple. A concorrência tem aproveitado e crescido de forma única, mostrando um reequilibrar das vendas. Os...",
+    "url": "https://pplware.sapo.pt/smartphones-tablets/vendas-do-iphone-caem-20-no-maior-mercado-do-planeta-enquanto-a-huawei-cresceu-70/",
+    "urlToImage": "https://pplware.sapo.pt/wp-content/uploads/2024/04/iphone_huawei_china_1.jpg",
+    "publishedAt": "2024-04-24T07:00:37Z",
+    "content": "O desempenho das vendas do iPhone parecem estar a perder fôlego, pelo menos em alguns mercados-chave para a Apple. A concorrência tem aproveitado e crescido de forma única, mostrando um reequilibrar … [+2047 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "SamMobile"
+    },
+    "author": "Asif Iqbal Shaik",
+    "title": "Apple’s new iPad could be in short supply due to Samsung",
+    "description": "Apple is ready to launch its new flagship iPads, and the company has teased its next launch event for May 7. That's when Apple's new OLED-equipped iPad Pros will likely be unveiled, but one of those iPads could be in short supply due to Samsung. Apple's OLED …",
+    "url": "https://www.sammobile.com/news/apple-ipad-pro-11-oled-shortage-samsung/",
+    "urlToImage": "https://www.sammobile.com/wp-content/uploads/2023/12/Apple-iPad-Pro-720x405.jpg",
+    "publishedAt": "2024-04-24T07:58:11Z",
+    "content": "Apple is ready to launch its new flagship iPads, and the company has teased its next launch event for May 7. That's when Apple's new OLED-equipped iPad Pros will likely be unveiled, but one of those … [+1196 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Vedomosti.ru"
+    },
+    "author": null,
+    "title": "В Нидерландах подали иск на Apple за ухудшение работы смартфонов",
+    "description": "",
+    "url": "https://www.vedomosti.ru/business/news/2024/04/24/1033831-niderlandah-podali-isk-apple",
+    "urlToImage": "https://sharing.vedomosti.ru/1713951391/vedomosti.ru/business/news/2024/04/24/1033831-niderlandah-podali-isk-apple.jpg",
+    "publishedAt": "2024-04-24T09:36:30Z",
+    "content": "vedomosti.ru\r\n, , , , - . \r\n ( , , «», ). \r\n - «2», vedomosti.ru\r\n © , / 7712108141/771501001, 1027739124775, 127018, . , . , 3 1, I, 2, 21. 19992024"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Smhn.info"
+    },
+    "author": "會原",
+    "title": "注目は2点。シャープ、アクオス2024年夏モデルの発表会開催を告知",
+    "description": "シャープは、2024年夏モデルの発表会開催を告知しました。発表日時は5月8日。シャープは例年夏モデルとしてハイエンドSoCを搭載したAQUOS Rシリーズを投入しています。順当に行けばAQUOS R9シリーズが発表される見通し。大きく見どころは二点です。まず一点目は機種数です。昨...smhn.infoにアクセスすると、全文を読むことができます。",
+    "url": "https://smhn.info/202404-sharp-aquos-2024-summer-teaser",
+    "urlToImage": "https://smhn.info/wp-content/uploads/2024/04/shot_240424_124429.png",
+    "publishedAt": "2024-04-24T04:58:54Z",
+    "content": "Xiaomi 14 Ultra59\r\n2024-04-23 20:05:33\r\nXiaomiXiaomi 14 Ultra\r\nXiaomi 14 UltraXiaomi JapanXTwitter202459Xiaomi 14 UltraWeiboXiaomi 14 Ultra...\r\nGalaxy S23\r\n2024-04-23 11:50:30\r\nGalaxy S23\r\n422Certifi… [+452 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Macotakara.jp"
+    },
+    "author": "danbo",
+    "title": "TFIのアナリストMing-Chi Kuo氏、Apple、Apple Vision Proの出荷予測を下方修正",
+    "description": "TF International Securities\r\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<!-- テキスト -->\n\nTF International Securities Group LimitedのアナリストMing-Chi Kuo氏は、Appleが、Apple Vision Proのの出荷予測を下方修正した可能性があるとmediumに投稿しています。\nAppleは、市場コンセンサスの70～80万台以上に対して、2024年のApple Vis…",
+    "url": "https://www.macotakara.jp/rumor/entry-46587.html",
+    "urlToImage": "https://www.macotakara.jp/archives/001/201806/a86a98405a2fa30873e57a9ccff089bec37bd609eb0a043b0ae68df98f60b18e.png",
+    "publishedAt": "2024-04-24T06:25:52Z",
+    "content": "TF International Securities Group LimitedMing-Chi KuoAppleApple Vision Promedium\r\nApple70802024Apple Vision Pro4045\r\nAppleVision ProApple\r\nAppleHMD2025Vision Pro25/4\r\nApple2025Apple Vision ProApple V… [+99 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Macotakara.jp"
+    },
+    "author": "danbo",
+    "title": "UPDFレビュー：Appleユーザーは見逃せないパワフルなAI搭載PDFエディター！【PR】",
+    "description": "UPDFの特徴とは？\r\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<!-- テキスト -->\n\nAppleのM3 iMacとM3 MacBook Proの新発売により、PDFワークフローを効率化させる可能性は無限大に広がりました。しかし、高度なオペレーティングシステムだけでは不十分で、それに合った効率的なPDF編集ソフトが必要です。\n\nUPDFは、プロフェッショナルのPDF編集機能を備え、今なら特別割引でこのチャレンジに立ち向かう準備ができています。\n\nUP…",
+    "url": "https://www.macotakara.jp/promotion/entry-46583.html",
+    "urlToImage": "https://www.macotakara.jp/archives/001/202404/043f40d9e4b46d4c.jpg",
+    "publishedAt": "2024-04-24T07:41:53Z",
+    "content": "UPDF\r\nAppleM3 iMacM3 MacBook ProPDFPDF\r\nUPDFPDF\r\nUPDF\r\nUPDFAIPDFOCRPDFMaciOSWindowsAndroidiPhoneMacPDFUPDF\r\nUPDFApple\r\nUPDFPDFPDFOCRPDFUPDF\r\nUPDFMaciPhoneiPad\r\nMacPDF\r\nUPDFiPhoneMaciPadPDF\r\nPDFUPDFPD… [+592 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Soft4fun.net"
+    },
+    "author": "手哥 HANDBRO",
+    "title": "iPad Pro 7、iPad Air 6 來啦！5/7 發表上市，新機亮點快速整理",
+    "description": "(硬是要學／手哥 HANDBRO 報導)\n等了好久終於等到消息啦！蘋果已經發出邀請函，將在 2024 年 5 月 7 日召開新品發表會，從 Apple 特別活動的網站可以明顯感受到這次即將推出全新的 iPad Pro 7和iPad Air 6 以及新的 Apple Pencil，另外 iPad mini 7 則預計在今年 9 月或 10 月推出。這些新款iPad將採用多項升級，包括 OLED 螢幕、更強大的處理器、改進的相機功能以及新的外觀設計。此外，iPadOS 18也將在今年6月的 WWDC 大會上推出，支援…",
+    "url": "https://www.soft4fun.net/tech/news/2024-ipad-pro-7ipad-air-6.htm",
+    "urlToImage": "https://www.soft4fun.net/wp-content/uploads/2024/04/maxresdefault.jpg",
+    "publishedAt": "2024-04-24T03:29:44Z",
+    "content": "2024 5 7 Apple iPad Pro 7iPad Air 6 Apple Pencil iPad mini 7 9 10 iPad OLED iPadOS 186 WWDC iPad\r\n 2024 5 7 iPad Pro 7iPad Air 6 Apple Pencil ()\r\niPad Pro 7OLED,,Apple M3iPad Air 610.912.9,12.9mini-L… [+332 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Macmagazine.com.br"
+    },
+    "author": "Marcelo Melo",
+    "title": "Promoções na App Store: Go Rally, Scrollit: display scrolling, Airports. e mais!",
+    "description": "Nesta terça-feira, confira, aproveite e economize com a nossa seleção de promoções na App Store! Go Rally, desenvolvido pelo pessoal da Inputwish, é um jogo de corrida bem completo para iPhones, iPads e Apple TVs! Participe de corridas, desenvolva suas habili…",
+    "url": "https://macmagazine.com.br/post/2024/04/23/promocoes-na-app-store-go-rally-scrollit-display-scrolling-airports-e-mais/",
+    "urlToImage": "https://macmagazine.com.br/wp-content/uploads/2023/07/3-Go-Rally-1260x709.jpg",
+    "publishedAt": "2024-04-24T01:11:25Z",
+    "content": "Nesta terça-feira, confira, aproveite e economize com a nossa seleção de promoções na App Store!\r\nGo Rally, desenvolvido pelo pessoal da Inputwish, é um jogo de corrida bem completo para iPhones, iPa… [+746 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Tweakers.net"
+    },
+    "author": "Arnoud Wokke",
+    "title": "Apple-ceo hint naar komst nieuwe Pencil",
+    "description": "Apple-ceo Tim Cook heeft gehint naar de komst van een nieuwe Apple Pencil. Het is zeldzaam dat hij hint naar onaangekondigde producten. Het bedrijf heeft een evenement gepland staan voor 7 mei.",
+    "url": "https://tweakers.net/nieuws/221192/apple-ceo-hint-naar-komst-nieuwe-pencil.html",
+    "urlToImage": "https://tweakers.net/i/c6pFffz-K1gMONOt7ra8bOR1ztY=/134x134/filters:strip_icc():strip_exif()/i/2006176660.jpeg?f=meta",
+    "publishedAt": "2024-04-24T06:10:00Z",
+    "content": "Tweakers maakt gebruik van cookies\r\nTweakers plaatst functionele en analytische cookies voor het functioneren van de website en het verbeteren van de website-ervaring. Deze cookies zijn noodzakelijk.… [+474 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Tweakers.net"
+    },
+    "author": "Yannick Spinner",
+    "title": "Nederlandse organisaties starten claim tegen Apple voor trager maken iPhones",
+    "description": "De Nederlandse organisaties ConsumentenClaim en Stichting Aequitas Belangenbehartiging starten een claim tegen Apple. De organisaties willen dat het bedrijf klanten compenseert voor het feit dat iPhone 6-, iPhone 7- en iPhone SE-smartphones doelbewust trager …",
+    "url": "https://tweakers.net/nieuws/221202/nederlandse-organisaties-starten-claim-tegen-apple-voor-trager-maken-iphones.html",
+    "urlToImage": "https://tweakers.net/i/Ti45jcZlwt02DetZVgHZHeJ7zMU=/134x134/filters:strip_icc():strip_exif()/i/2006208068.jpeg?f=meta",
+    "publishedAt": "2024-04-24T08:39:35Z",
+    "content": "De Nederlandse organisaties ConsumentenClaim en Stichting Aequitas Belangenbehartiging starten een claim tegen Apple. De organisaties willen dat het bedrijf klanten compenseert voor het feit dat iPho… [+1224 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "MacGeneration"
+    },
+    "author": "Florian Innocente",
+    "title": "Refurb : le MacBook Air M2 à seulement 1 019 €",
+    "description": "Le MacBook Air M2, toujours au catalogue chez Apple, est constamment en promotion un peu partout. Néanmoins le refurb de l'Apple Store vend le modèle d'entrée de gamme à un prix qu'aucune autre enseigne ne pratique.\n\nLa version 8/256 Go est disponible à 1 019…",
+    "url": "https://www.macg.co/mac/2024/04/refurb-le-macbook-air-m2-seulement-1-019-eu-143397",
+    "urlToImage": "https://cdn.mgig.fr/2024/04/mga-3d6d0e36-w1500.jpg",
+    "publishedAt": "2024-04-24T08:14:00Z",
+    "content": "Le MacBook Air M2, toujours au catalogue chez Apple, est constamment en promotion un peu partout. Néanmoins le refurb de l'Apple Store vend le modèle d'entrée de gamme à un prix qu'aucune autre ensei… [+564 chars]"
+    }
+    ]
+}
