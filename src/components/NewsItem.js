@@ -7,7 +7,7 @@ export class NewsItem extends Component {
     return (
       <div className='my-3'>
         <div className="card" >
-        <img src={imageUrl} className="card-img-top" alt="..." />
+        <img src={!imageUrl?"https://rapidapi-prod-collections.s3.amazonaws.com/collection/iStock-638044390.jpg.jpg" :imageUrl } className="card-img-top" alt="..." />
         <div className="card-body">
             <h5 className="card-title">{title} <span className="badge text-bg-success">New</span></h5>
             <p className="card-text">{description}</p>
